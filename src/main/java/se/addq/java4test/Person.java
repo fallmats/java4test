@@ -5,6 +5,7 @@ package se.addq.java4test;
  */
 public class Person {
 
+    static String constantVariable = "samma värde för alla instanser";
     private String name;
     private String firstName;
     private String lastName;

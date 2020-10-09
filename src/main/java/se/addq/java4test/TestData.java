@@ -57,4 +57,12 @@ public class TestData {
         return name[randomNumber];
     }
 
+    public int getIteration(int n) {
+        int retur = 0;
+        for (int i = 0; i < n; i++) {
+            retur += retur;
+        }
+        return retur;
+    }
+
 }

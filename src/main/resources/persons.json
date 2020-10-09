@@ -1,0 +1,20 @@
+{
+  "persons": [
+    {
+      "name": "mats",
+      "number": 123,
+      "adress": {
+        "street": "testgatan",
+        "city": "Stockholm"
+      }
+    },
+    {
+      "name": "janne",
+      "number": 345,
+      "adress": {
+        "street": "utvecklargatan",
+        "city": "Stockholm"
+      }
+    }
+  ]
+}
